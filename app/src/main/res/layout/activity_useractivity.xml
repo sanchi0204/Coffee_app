@@ -218,7 +218,6 @@
             android:padding="10dp"
             android:text="@string/order"
             android:textAllCaps="true"
-            android:onClick="Order"
             android:textAlignment="center"
             android:textColor="#fff"
             />

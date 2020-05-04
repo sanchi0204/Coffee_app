@@ -7,6 +7,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
+import android.widget.Button;
 import android.widget.CheckBox;
 import android.widget.EditText;
 import android.widget.RadioButton;
@@ -29,11 +30,20 @@ public class Useractivity extends AppCompatActivity implements AdapterView.OnIte
     int quant = 0;
     int price = 0;
 
+    Button Order;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_useractivity);
+
+        Order=findViewById(R.id.order);
+        Order.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Order();
+            }
+        });
 
         Spinner spin = findViewById(R.id.spin);
         spin.setOnItemSelectedListener(this);
@@ -94,13 +104,13 @@ public class Useractivity extends AppCompatActivity implements AdapterView.OnIte
 
     private void displayquant(int quant) {
 
-        TextView qt = (TextView) findViewById(R.id.qt);
+        TextView qt = findViewById(R.id.qt);
         qt.setText("" + quant);
     }
 
 
 
-    public void Order(View view) {
+    public void Order() {
 
         EditText name = findViewById(R.id.name);
         cust_name = name.getText().toString().trim();
