@@ -3,7 +3,7 @@
 A coffee ordering Android application.
 
 ## Introduction
-* The application allows a user to order a coffee by specifying their details and coffee specifications such as coffee type and toppings. The order summary is then mailed to the user on order confirmation.
+* The application allows a user to order a coffee by specifying their details and coffee specifications such as coffee type, toppings and quantity. The order summary is then mailed to the user on order confirmation.
 * The application supports Android 4.0 Ice Cream Sandwich (API level 15) and above.
 
 ## Screenshots
