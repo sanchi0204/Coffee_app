@@ -1,4 +1,4 @@
-# AAHAR
+# MY COFFEE
 <img src="https://github.com/sanchi0204/Coffee_app/blob/master/app/src/main/res/drawable/cup.png" width="200" height="300" />
 A coffee ordering Android application.
 
