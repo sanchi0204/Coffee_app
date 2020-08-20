@@ -1,5 +1,7 @@
 # MY COFFEE
+<p align="center">
 <img src="https://github.com/sanchi0204/Coffee_app/blob/master/app/src/main/res/drawable/cup.png" width="200" height="300" />
+  </p>
 A coffee ordering Android application.
 
 ## Introduction
