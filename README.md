@@ -8,6 +8,11 @@ A coffee ordering Android application.
 
 ## Screenshots
 
-<img src="https://github.com/sanchi0204/Coffee_app/blob/master/Screenshots/1.jpg" width="300" height="500" /> <img src="https://github.com/sanchi0204/Coffee_app/blob/master/Screenshots/2.jpg" width="300" height="500" /> 
-
-<img src="https://github.com/sanchi0204/Coffee_app/blob/master/Screenshots/3.jpg" width="300" height="500" /> <img src="https://github.com/sanchi0204/Coffee_app/blob/master/Screenshots/4.jpg" width="300" height="500" /> 
+<table>   
+  <tr>
+    <td><img src="https://github.com/kyratna/RK60_SAARTHI/blob/master/Readme_Screenshots/citizen_splash.png" width=270 height=480></td>
+    <td><img src="https://github.com/kyratna/RK60_SAARTHI/blob/master/Readme_Screenshots/citizen_onboard.png" width=270 height=480></td>
+    <td><img src="https://github.com/kyratna/RK60_SAARTHI/blob/master/Readme_Screenshots/citizen_signin.png" width=270 height=480></td>
+    <td><img src="https://github.com/kyratna/RK60_SAARTHI/blob/master/Readme_Screenshots/citizen_signin.png" width=270 height=480></td>
+  </tr>
+ </table>
